@@ -1,0 +1,35 @@
+clear Lock
+keycode 66 = Escape
+
+clear control
+clear mod1
+
+keycode 37 = Alt_R Meta_R
+keycode 64 = Control_L
+
+add control = Control_L
+add mod1 = Alt_R Meta_R
+
+keycode 108 = Mode_switch
+keycode 51 = BackSpace
+
+keysym a = a A exclam exclam
+keysym q = q Q asciitilde asciitilde
+keysym w = w W at at
+keysym e = e E numbersign numbersign
+keysym r = r R dollar dollar
+keysym t = t T percent percent
+keysym g = g G asciicircum asciicircum
+keysym y = y Y ampersand ampersand
+keysym u = u U asterisk asterisk
+keysym i = i I parenleft parenleft
+keysym o = o O parenright parenright
+keysym h = h H Left Left
+keysym j = j J Down Down
+keysym k = k K Up Up
+keysym l = l L Right Right
+keysym p = p P backslash backslash
+keysym b = b B bar bar
+keysym v = v V grave grave
+keysym d = d D Delete Delete
+keysym c = c C Caps_Lock Caps_Lock
